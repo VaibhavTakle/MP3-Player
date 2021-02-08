@@ -1,2 +1,2 @@
 # MP3-Player
-It is the python program to create mp3 player by using pygame and mutagen 
+This is the python program to create an mp3 player by using pygame and mutagen 
